@@ -46,3 +46,16 @@ Inventory Optimization: Analyzed "Champion" product affinity to suggest cross-se
 Clone the repository.
 Install requirements: pip install pandas plotly seaborn.
 Open Customer_lifecycle.ipynb in Google Colab or Jupyter.
+
+## Business Insights
+Below is the distribution of our customer segments:
+
+![Customer Segments Treemap](images/Customer_lifecycle_1.png)
+![Customer Segments Treemap](images/Customer_lifecycle_2.png)
+![Customer Segments Treemap](images/Customer_lifecycle_3.png)
+![Customer Segments Treemap](images/Customer_lifecycle_4.png)
+![Customer Segments Treemap](images/map.png)
+![Customer Segments Treemap](images/Customer_lifecycle_Doughnut_chart.png)
+
+
+
