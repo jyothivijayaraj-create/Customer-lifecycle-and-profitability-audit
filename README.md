@@ -50,12 +50,12 @@ Open Customer_lifecycle.ipynb in Google Colab or Jupyter.
 ## Business Insights
 Below is the distribution of our customer segments,global revenue distribution,Percentage of Total Revenue by RFM Segment:
 
-![Customer Segments Treemap](images/Customer_lifecycle_1.png)
-![Customer Segments Treemap](images/Customer_lifecycle_2.png)
-![Customer Segments Treemap](images/Customer_lifecycle_3.png)
-![Customer Segments Treemap](images/Customer_lifecycle_4.png)
-![Global Revenue Distribution by Country](images/map.png)
-![Percentage of Total Revenue by RFM Segment](images/Customer_lifecycle_Doughnut_chart.png)
+![Customer Segments Treemap](Images/Customer%20lifecycle_1.png)
+![Customer Segments Treemap](Images/Customer%20lifecycle_2.png)
+![Customer Segments Treemap](Images/Customer%20lifecycle_3.png)
+![Customer Segments Treemap](Images/Customer%20lifecycle_4.png)
+![Global Revenue Distribution by Country](Images/Map.png)
+![Percentage of Total Revenue by RFM Segment](Images/Customer%20Lifecycle%20Doughnut%20chart.png)
 
 
 
